@@ -156,6 +156,7 @@ Alex Ilyin (https://github.com/ilyin0)
 - Patrick O'Mahony
 - Narayan Pai
 - Henri Wood
+- Vivek Shaw (https://github.com/shawviv)
 - Felipe Sandoli
 - [Brandon Ward](https://github.com/bward021)
 - Govind Saju
